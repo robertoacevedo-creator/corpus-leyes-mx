@@ -1,0 +1,28 @@
+{
+ "version": "v1",
+ "fecha": "2026-10-19",
+ "archivos": {
+  "articulos.jsonl": {
+   "sha256": "b10ce40bc762651b05f8f357c53f966b203e38c0e85b1e815e2860c3872a5f92",
+   "bytes": 1683523,
+   "lineas": 975
+  },
+  "decretos.jsonl": {
+   "sha256": "900761cd51bb9189db1557ac2a3adcf5c51a7ce9afae4dbcfbfa99b3316f6b5f",
+   "bytes": 841002,
+   "lineas": 242
+  },
+  "leyes.jsonl": {
+   "sha256": "798f59d70bcf5628d2b1446396eaf57e4a34ae6335106faeb9ac4215e5e99308",
+   "bytes": 1565,
+   "lineas": 5
+  }
+ },
+ "leyes": [
+  "CPEUM",
+  "LAmp",
+  "LFPA",
+  "LFPCA",
+  "LGEEPA"
+ ]
+}
